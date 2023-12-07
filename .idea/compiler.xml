@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="homework1-27.10.2023" />
+        <module name="homework2-25.10.2023" />
+        <module name="homework1-23.10.2023" />
+        <module name="homework2-23.10.2023" />
+        <module name="homework1-30.10.2023" />
+        <module name="homework1-25.10.2023" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
